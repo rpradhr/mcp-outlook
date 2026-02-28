@@ -1,0 +1,5 @@
+{
+  "name": "Outlook MCP Server",
+  "description": "A Model Context Protocol server for Microsoft Outlook, enabling AI agents to interact with mail, calendar, and contacts via Microsoft Graph API.",
+  "requestFramePermissions": []
+}
